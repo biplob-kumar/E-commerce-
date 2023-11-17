@@ -65,7 +65,9 @@ div#mobile {
 
 /* defaulkt css  end   */
 
-
+i.fa-solid.fa-xmark {
+    display: none;
+}
 
 
 /* shop page */
