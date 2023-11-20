@@ -54,7 +54,9 @@ body{
     font-size: 25px;
 }
 
-
+i.fa-solid.fa-bag-shopping {
+    display: none;
+}
 div#mobile {
     color: #cbcac8;
 }
